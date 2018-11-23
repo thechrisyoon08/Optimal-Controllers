@@ -1,6 +1,6 @@
 # Optimal-Controllers
 Implementations of Nonlinear optimal controllers
 
-# Dependencies:
+# Requirements:
 - autograd
 - numpy
