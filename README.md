@@ -10,5 +10,6 @@ Implementations of Nonlinear optimal controllers
   (https://pdfs.semanticscholar.org/7958/d2367c0f1988dbd2b9644ad65f86a8fca98b.pdf)
 
 # Requirements:
+- Python 3 (Does not work with Python 2)
 - autograd
 - numpy
